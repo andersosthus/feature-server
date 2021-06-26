@@ -1,0 +1,3 @@
+[submodule "feature-server-proto"]
+	path = feature-server-proto
+	url = https://github.com/andersosthus/feature-server-proto
